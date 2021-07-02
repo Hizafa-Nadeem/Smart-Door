@@ -1,4 +1,4 @@
-Smart Door
+#Smart Door
 
 The smart door lock uses artificial intelligence to authenticate opening and closing the door
 instead of the legacy key system. The smart door lock is attached to any door and makes it smart
