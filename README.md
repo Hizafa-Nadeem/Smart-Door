@@ -16,5 +16,8 @@ sklearn
 matplotlib
 voice recognition
 
-Tools used 
+Language used:
+Python
+
+Tools used: 
 Jupyter Notebook 
