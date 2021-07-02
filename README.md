@@ -8,7 +8,7 @@ time as it will keep track of who enters the house. When the accuracy reaches a 
 threshold, the door can operate without the user's intervention. If the smart door is open, it closes
 through voice recognition and opens from the inside only through voice recognition also.
 
-Library used:
+Libraries used:
 numpy
 pandas
 os
